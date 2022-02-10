@@ -9,4 +9,4 @@ function printUnorderedPairs(arrayA, arrayB){
 }
 
 //¿Cuál es la complejidad de tiempo?
-// O(n^k) porque se itera n veces y se itera k veces dentro de cada iteración
+// O(nk) porque se itera n veces y se itera k veces dentro de cada iteración
