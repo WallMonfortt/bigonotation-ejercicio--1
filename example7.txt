@@ -1,0 +1,6 @@
+¿Cuales de las siguientes sentencias son equivalentes a O(N)? ¿por qué?
+
+1. O(N + P) donde P < n/2 False porque P es menor que n/2 
+2. O(2N) True porque 2N es igual a N 
+3. O(N + log N) True porque N + log N es igual a N
+4. O(N + M) True porque N + M es igual a N
