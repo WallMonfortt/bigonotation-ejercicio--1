@@ -9,3 +9,4 @@ function reverse(array){
 
 //¿Cuál es la complejidad de tiempo?
 // O(n/2) porque se itera n/2 veces
+// O(n) porque se eliminan las constantes
